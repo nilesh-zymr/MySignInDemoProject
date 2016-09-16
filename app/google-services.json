@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915741095847",
+    "firebase_url": "https://mysigninapplication.firebaseio.com",
+    "project_id": "mysigninapplication",
+    "storage_bucket": "mysigninapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915741095847:android:418015d7e4b602fe",
+        "android_client_info": {
+          "package_name": "signin.zymr.com.mysigninapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915741095847-t3vho0h1ol7v91abcrm25r0t424ii705.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "signin.zymr.com.mysigninapplication",
+            "certificate_hash": "83A8BB0A6FAD78BE1594C3BA4E6B33E40CA523A8"
+          }
+        },
+        {
+          "client_id": "915741095847-v94lr89e5e7h93pmqfon8204a3naklba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8lZcYW-SoMcztFIHzVqyn_epx6SSjKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915741095847-v94lr89e5e7h93pmqfon8204a3naklba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
